@@ -87,3 +87,4 @@ wcwidth==0.2.13
 wheel==0.45.1
 xyzservices==2025.1.0
 streamlit-option-menu
+cv2
